@@ -1,0 +1,6 @@
+:root{--navy:#073b4c;--bg:#f7fbfc;--card:#fff}
+body{font-family:Arial,Helvetica,sans-serif;background:var(--bg);color:#072a31;margin:0}
+.container{max-width:1000px;margin:0 auto;padding:24px}
+.hero{padding:40px 0}
+.btn{display:inline-block;padding:10px 14px;border-radius:8px;text-decoration:none;background:#073b4c;color:#fff;margin-right:8px}
+.contact-card{background:#fff;padding:16px;border-radius:8px}
